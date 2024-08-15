@@ -6,12 +6,12 @@ nama = "python pemula"
 bila kita ingin menulis lebih dari satu statement dalam satu baris, maka
 kita harus memisahnya dengan titik-koma. Contoh:
 print("Hello"); print("World"); print("Tutorial Python untuk Pemula")
-nama_depan = "python"
-nama_belakang = "pemula"
+nama_depan = "sepuhnya"
+nama_belakang = "python"
 String adalah teks atau kumpulan dari karakter.
 Contoh:
-judul = "Belajar Pemrograman Python sampai Bisa"penulis = 'python pemula'
-Atau kita juga bisa menggunakan triple tanda petik.
+judul = "Belajar Pemrograman Python sampai Bisa"penulis = 'python sepuh'
+Atau bisa juga bisa dengan menggunakan triple tanda petik.
 Contoh:
 judul = """Belajar Python dengan Cepat"""penulis = '''python pemula'''
 
